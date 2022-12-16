@@ -91,7 +91,7 @@
       "tag":"groupcreation",
       "input":["How to create groups", "I need help with the creation of groups", "What do I have to do to create groups"],
       "responses":[
-        "Start you app and click on the create group button. You will be asked to enter the name of the group and the description of the group. After that you will be asked to add members to the group. You can add members by entering their email address or by selecting them from the list of users. After that you can click on the create button to create the group."
+        "Start your app and click on the create group button. You will be asked to enter the name of the group and the description of the group. After that you will be asked to add members to the group. You can add members by entering their email address or by selecting them from the list of users. After that you can click on the create button to create the group."
       ]
     }
   ]
