@@ -70,16 +70,6 @@
       ]
     },
     {
-      "tag":"whereisthecenter",
-      "input":["where is the straw hat center located ?","location of the straw hat center ?","strawhat center's location ?","where can I find the strawhat center ?","where can I find the strawhat center ?"],
-      "responses":[
-
-        "That's up to you. use your skills",
-        "They are present all over the city you live in. Find them on your own. I can't give any more information",
-        "there are a lot of straw hat centers in the city you are in. find them."
-      ]
-    },
-    {
       "tag":"prerequisites",
       "input":["what are the job requirements ?","what are the pre requisites ?","what are the pre-requisites ?","tell me about the pre-requisites","tell me more about the pre requisites","give more details about the pre-requisites","What are the requirements"," what's the basic requirements","what are the basic skills to get recruited ?"],
       "responses":[
