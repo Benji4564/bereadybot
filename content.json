@@ -2,15 +2,11 @@
   [
     {
       "tag":"greeting",
-      "input":["hello","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
+      "input":["hello","hi there","nice to meet you","hello","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","knock knock"],
       "responses":[
-          "Hi. Welcome to the world's largest pirate organization - The Strawhats",
-          "Hey yo, do you need help ?",
-          "welcome aboard, how may I help you ?",
-          "ahoy!!",
-          "Hi random person, what do'ya want ?",
-          "Hello my friend, How can I help you ?",
-          "Ha , Glad you showed up. How are you ?"
+          "Hi. Welcome to Be Ready",
+          "Hey you, do you need help ?",
+          "welcome aboard, how may I help you ?"
         ]
     },
     {
@@ -41,29 +37,25 @@
           "Yeah Fine, nothing much going on in my life",
           "I am Great , wanna join the pirate's organization ?",
           "Everything's great.",
-          "I am doing good. Life is boring. need to go on an adventure"
+          "I am doing good. Life is boring. need to go on an adventure, maybe I can plan an event"
         ]
     },
     {
       "tag":"whoareyou",
     "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
       "responses":[
-          "I am a The Great Pirate Bot , you can call me Going Merry",
-          "I am Going Merry and you could ask me questions about our organization",
-          "Going Merry at your service",
-          "My name is Going Merry and yes, I am the G.O.A.T",
-          "You can call me TechBot and I am here to Help you",
-          "My name is Going Merry and I am here to answer your questions regarding our organization. go ahead and shoot"
+          "I am Andy Front, a bot to help you with the organization",
+          "Andy Front at your service",
+          "You can call me Andy Front and I am here to Help you"
         ]
     },
     {
       "tag":"whereareyou",
     "input":["where are you from ?","which country are you from ?","where do you live ?","where are you ?","where do you live in ?","which place do you live in ?","where are you currently at","where do you live currently ?","you are from where","you are from ?"],
       "responses":[
-          "I Live in the East Blue",
-          "I am setting sail to the grand line",
+          "I Live in Stade",
           "I live in East Blue. Pretty sure you wouldn't have heard about that",
-          "East Blue. That's where I live"
+          "Stade. That's where I live"
         ]
     },
     {
